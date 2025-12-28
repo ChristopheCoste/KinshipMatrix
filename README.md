@@ -1,0 +1,1 @@
+This repository contains 2 files providing the code (one file in R, another in Matlab) for the manuscript "The Kinship Formula: inferring the numbers of all kin from any structured population projection model".
